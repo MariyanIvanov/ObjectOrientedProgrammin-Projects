@@ -1,0 +1,3 @@
+C:\Users\Radoslav Ivanov\documents\visual studio 2012\Projects\DefiningClasses\DefiningClasses\bin\Debug\DefiningClasses.exe.config
+C:\Users\Radoslav Ivanov\documents\visual studio 2012\Projects\DefiningClasses\DefiningClasses\obj\Debug\DefiningClasses.exe
+C:\Users\Radoslav Ivanov\documents\visual studio 2012\Projects\DefiningClasses\DefiningClasses\obj\Debug\DefiningClasses.pdb
